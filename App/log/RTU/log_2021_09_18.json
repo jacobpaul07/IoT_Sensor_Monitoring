@@ -1,0 +1,152 @@
+[
+  [
+    {
+      "deviceID": "COM1-Device",
+      "channel": "COM1",
+      "tagName": "Temperature",
+      "value": 30.7,
+      "timestamp": "2021-09-18T03:55:03_PM"
+    },
+    {
+      "deviceID": "COM1-Device",
+      "channel": "COM1",
+      "tagName": "Pressure",
+      "value": 77.0,
+      "timestamp": "2021-09-18T03:55:03_PM"
+    },
+    {
+      "deviceID": "COM1-Device",
+      "channel": "COM1",
+      "tagName": "Flow",
+      "value": 0.9,
+      "timestamp": "2021-09-18T03:55:03_PM"
+    },
+    {
+      "deviceID": "COM1-Device",
+      "channel": "COM1",
+      "tagName": "LDR",
+      "value": 610.7,
+      "timestamp": "2021-09-18T03:55:03_PM"
+    }
+  ],
+  [
+    {
+      "deviceID": "COM1-Device",
+      "channel": "COM1",
+      "tagName": "Temperature",
+      "value": 30.8,
+      "timestamp": "2021-09-18T03:55:08_PM"
+    },
+    {
+      "deviceID": "COM1-Device",
+      "channel": "COM1",
+      "tagName": "Pressure",
+      "value": 77.0,
+      "timestamp": "2021-09-18T03:55:08_PM"
+    },
+    {
+      "deviceID": "COM1-Device",
+      "channel": "COM1",
+      "tagName": "Flow",
+      "value": 1.5,
+      "timestamp": "2021-09-18T03:55:08_PM"
+    },
+    {
+      "deviceID": "COM1-Device",
+      "channel": "COM1",
+      "tagName": "LDR",
+      "value": 610.9,
+      "timestamp": "2021-09-18T03:55:08_PM"
+    }
+  ],
+  [
+    {
+      "deviceID": "COM1-Device",
+      "channel": "COM1",
+      "tagName": "Temperature",
+      "value": 30.8,
+      "timestamp": "2021-09-18T03:55:13_PM"
+    },
+    {
+      "deviceID": "COM1-Device",
+      "channel": "COM1",
+      "tagName": "Pressure",
+      "value": 77.0,
+      "timestamp": "2021-09-18T03:55:13_PM"
+    },
+    {
+      "deviceID": "COM1-Device",
+      "channel": "COM1",
+      "tagName": "Flow",
+      "value": 1.7,
+      "timestamp": "2021-09-18T03:55:13_PM"
+    },
+    {
+      "deviceID": "COM1-Device",
+      "channel": "COM1",
+      "tagName": "LDR",
+      "value": 610.9,
+      "timestamp": "2021-09-18T03:55:13_PM"
+    }
+  ],
+  [
+    {
+      "deviceID": "COM1-Device",
+      "channel": "COM1",
+      "tagName": "Temperature",
+      "value": 30.8,
+      "timestamp": "2021-09-18T03:55:18_PM"
+    },
+    {
+      "deviceID": "COM1-Device",
+      "channel": "COM1",
+      "tagName": "Pressure",
+      "value": 77.0,
+      "timestamp": "2021-09-18T03:55:18_PM"
+    },
+    {
+      "deviceID": "COM1-Device",
+      "channel": "COM1",
+      "tagName": "Flow",
+      "value": 1.4,
+      "timestamp": "2021-09-18T03:55:19_PM"
+    },
+    {
+      "deviceID": "COM1-Device",
+      "channel": "COM1",
+      "tagName": "LDR",
+      "value": 610.8,
+      "timestamp": "2021-09-18T03:55:19_PM"
+    }
+  ],
+  [
+    {
+      "deviceID": "COM1-Device",
+      "channel": "COM1",
+      "tagName": "Temperature",
+      "value": 30.8,
+      "timestamp": "2021-09-18T03:55:20_PM"
+    },
+    {
+      "deviceID": "COM1-Device",
+      "channel": "COM1",
+      "tagName": "Pressure",
+      "value": 77.0,
+      "timestamp": "2021-09-18T03:55:20_PM"
+    },
+    {
+      "deviceID": "COM1-Device",
+      "channel": "COM1",
+      "tagName": "Flow",
+      "value": 1.6,
+      "timestamp": "2021-09-18T03:55:20_PM"
+    },
+    {
+      "deviceID": "COM1-Device",
+      "channel": "COM1",
+      "tagName": "LDR",
+      "value": 610.9,
+      "timestamp": "2021-09-18T03:55:20_PM"
+    }
+  ]
+]

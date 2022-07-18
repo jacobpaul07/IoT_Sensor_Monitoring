@@ -1,0 +1,651 @@
+[
+  [
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Temperature",
+      "value": 3.285,
+      "timestamp": "2021-09-15T03:53:38_PM"
+    },
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Pressure",
+      "value": 4.299,
+      "timestamp": "2021-09-15T03:53:38_PM"
+    },
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Flow",
+      "value": 5.021,
+      "timestamp": "2021-09-15T03:53:38_PM"
+    }
+  ],
+  [],
+  [
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Temperature",
+      "value": 3.285,
+      "timestamp": "2021-09-15T03:53:41_PM"
+    },
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Pressure",
+      "value": 4.299,
+      "timestamp": "2021-09-15T03:53:41_PM"
+    },
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Flow",
+      "value": 5.008,
+      "timestamp": "2021-09-15T03:53:41_PM"
+    }
+  ],
+  [
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Temperature",
+      "value": 3.285,
+      "timestamp": "2021-09-15T03:53:44_PM"
+    },
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Pressure",
+      "value": 4.299,
+      "timestamp": "2021-09-15T03:53:44_PM"
+    },
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Flow",
+      "value": 5.017,
+      "timestamp": "2021-09-15T03:53:44_PM"
+    }
+  ],
+  [],
+  [
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Temperature",
+      "value": 3.285,
+      "timestamp": "2021-09-15T03:53:47_PM"
+    },
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Pressure",
+      "value": 4.299,
+      "timestamp": "2021-09-15T03:53:47_PM"
+    },
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Flow",
+      "value": 5.007,
+      "timestamp": "2021-09-15T03:53:47_PM"
+    }
+  ],
+  [
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Temperature",
+      "value": 3.285,
+      "timestamp": "2021-09-15T03:53:50_PM"
+    },
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Pressure",
+      "value": 4.299,
+      "timestamp": "2021-09-15T03:53:50_PM"
+    },
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Flow",
+      "value": 5.021,
+      "timestamp": "2021-09-15T03:53:50_PM"
+    }
+  ],
+  [],
+  [
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Temperature",
+      "value": 3.284,
+      "timestamp": "2021-09-15T03:53:54_PM"
+    },
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Pressure",
+      "value": 4.299,
+      "timestamp": "2021-09-15T03:53:54_PM"
+    },
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Flow",
+      "value": 5.007,
+      "timestamp": "2021-09-15T03:53:54_PM"
+    }
+  ],
+  [
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Temperature",
+      "value": 3.284,
+      "timestamp": "2021-09-15T03:53:57_PM"
+    },
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Pressure",
+      "value": 4.299,
+      "timestamp": "2021-09-15T03:53:57_PM"
+    },
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Flow",
+      "value": 5.008,
+      "timestamp": "2021-09-15T03:53:57_PM"
+    }
+  ],
+  [],
+  [
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Temperature",
+      "value": 3.284,
+      "timestamp": "2021-09-15T03:54:00_PM"
+    },
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Pressure",
+      "value": 4.299,
+      "timestamp": "2021-09-15T03:54:00_PM"
+    },
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Flow",
+      "value": 5.006,
+      "timestamp": "2021-09-15T03:54:00_PM"
+    }
+  ],
+  [
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Temperature",
+      "value": 3.284,
+      "timestamp": "2021-09-15T03:54:03_PM"
+    },
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Pressure",
+      "value": 4.299,
+      "timestamp": "2021-09-15T03:54:03_PM"
+    },
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Flow",
+      "value": 5.007,
+      "timestamp": "2021-09-15T03:54:03_PM"
+    }
+  ],
+  [
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Temperature",
+      "value": 3.284,
+      "timestamp": "2021-09-15T03:54:06_PM"
+    },
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Pressure",
+      "value": 4.299,
+      "timestamp": "2021-09-15T03:54:06_PM"
+    },
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Flow",
+      "value": 5.011,
+      "timestamp": "2021-09-15T03:54:06_PM"
+    }
+  ],
+  [
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Temperature",
+      "value": 3.284,
+      "timestamp": "2021-09-15T03:54:09_PM"
+    },
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Pressure",
+      "value": 4.299,
+      "timestamp": "2021-09-15T03:54:09_PM"
+    },
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Flow",
+      "value": 5.007,
+      "timestamp": "2021-09-15T03:54:09_PM"
+    }
+  ],
+  [
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Temperature",
+      "value": 3.284,
+      "timestamp": "2021-09-15T03:54:12_PM"
+    },
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Pressure",
+      "value": 4.299,
+      "timestamp": "2021-09-15T03:54:12_PM"
+    },
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Flow",
+      "value": 5.009,
+      "timestamp": "2021-09-15T03:54:12_PM"
+    }
+  ],
+  [
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Temperature",
+      "value": 3.284,
+      "timestamp": "2021-09-15T03:54:15_PM"
+    },
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Pressure",
+      "value": 4.299,
+      "timestamp": "2021-09-15T03:54:15_PM"
+    },
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Flow",
+      "value": 5.011,
+      "timestamp": "2021-09-15T03:54:15_PM"
+    }
+  ],
+  [
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Temperature",
+      "value": 3.284,
+      "timestamp": "2021-09-15T03:54:19_PM"
+    },
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Pressure",
+      "value": 4.299,
+      "timestamp": "2021-09-15T03:54:19_PM"
+    },
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Flow",
+      "value": 5.007,
+      "timestamp": "2021-09-15T03:54:19_PM"
+    }
+  ],
+  [
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Temperature",
+      "value": 3.284,
+      "timestamp": "2021-09-15T03:54:22_PM"
+    },
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Pressure",
+      "value": 4.299,
+      "timestamp": "2021-09-15T03:54:22_PM"
+    },
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Flow",
+      "value": 5.007,
+      "timestamp": "2021-09-15T03:54:22_PM"
+    }
+  ],
+  [
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Temperature",
+      "value": 3.284,
+      "timestamp": "2021-09-15T03:54:25_PM"
+    },
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Pressure",
+      "value": 4.299,
+      "timestamp": "2021-09-15T03:54:25_PM"
+    },
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Flow",
+      "value": 5.008,
+      "timestamp": "2021-09-15T03:54:25_PM"
+    }
+  ],
+  [
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Temperature",
+      "value": 3.284,
+      "timestamp": "2021-09-15T03:54:28_PM"
+    },
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Pressure",
+      "value": 4.299,
+      "timestamp": "2021-09-15T03:54:28_PM"
+    },
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Flow",
+      "value": 5.007,
+      "timestamp": "2021-09-15T03:54:28_PM"
+    }
+  ],
+  [
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Temperature",
+      "value": 3.284,
+      "timestamp": "2021-09-15T03:54:31_PM"
+    },
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Pressure",
+      "value": 4.299,
+      "timestamp": "2021-09-15T03:54:31_PM"
+    },
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Flow",
+      "value": 5.007,
+      "timestamp": "2021-09-15T03:54:31_PM"
+    }
+  ],
+  [
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Temperature",
+      "value": 3.284,
+      "timestamp": "2021-09-15T03:54:34_PM"
+    },
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Pressure",
+      "value": 4.299,
+      "timestamp": "2021-09-15T03:54:34_PM"
+    },
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Flow",
+      "value": 5.008,
+      "timestamp": "2021-09-15T03:54:34_PM"
+    }
+  ],
+  [
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Temperature",
+      "value": 3.285,
+      "timestamp": "2021-09-15T03:54:37_PM"
+    },
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Pressure",
+      "value": 4.299,
+      "timestamp": "2021-09-15T03:54:37_PM"
+    },
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Flow",
+      "value": 5.007,
+      "timestamp": "2021-09-15T03:54:37_PM"
+    }
+  ],
+  [
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Temperature",
+      "value": 3.285,
+      "timestamp": "2021-09-15T03:54:40_PM"
+    },
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Pressure",
+      "value": 4.299,
+      "timestamp": "2021-09-15T03:54:40_PM"
+    },
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Flow",
+      "value": 5.007,
+      "timestamp": "2021-09-15T03:54:40_PM"
+    }
+  ],
+  [
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Temperature",
+      "value": 3.284,
+      "timestamp": "2021-09-15T03:54:43_PM"
+    },
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Pressure",
+      "value": 4.299,
+      "timestamp": "2021-09-15T03:54:43_PM"
+    },
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Flow",
+      "value": 5.008,
+      "timestamp": "2021-09-15T03:54:43_PM"
+    }
+  ],
+  [
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Temperature",
+      "value": 3.285,
+      "timestamp": "2021-09-15T03:54:46_PM"
+    },
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Pressure",
+      "value": 4.299,
+      "timestamp": "2021-09-15T03:54:46_PM"
+    },
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Flow",
+      "value": 5.007,
+      "timestamp": "2021-09-15T03:54:46_PM"
+    }
+  ],
+  [
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Temperature",
+      "value": 3.284,
+      "timestamp": "2021-09-15T03:54:49_PM"
+    },
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Pressure",
+      "value": 4.299,
+      "timestamp": "2021-09-15T03:54:49_PM"
+    },
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Flow",
+      "value": 5.008,
+      "timestamp": "2021-09-15T03:54:49_PM"
+    }
+  ],
+  [
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Temperature",
+      "value": 3.285,
+      "timestamp": "2021-09-15T03:54:52_PM"
+    },
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Pressure",
+      "value": 4.299,
+      "timestamp": "2021-09-15T03:54:52_PM"
+    },
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Flow",
+      "value": 5.007,
+      "timestamp": "2021-09-15T03:54:52_PM"
+    }
+  ],
+  [
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Temperature",
+      "value": 3.285,
+      "timestamp": "2021-09-15T03:54:55_PM"
+    },
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Pressure",
+      "value": 4.299,
+      "timestamp": "2021-09-15T03:54:55_PM"
+    },
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Flow",
+      "value": 5.009,
+      "timestamp": "2021-09-15T03:54:55_PM"
+    }
+  ],
+  [
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Temperature",
+      "value": 3.285,
+      "timestamp": "2021-09-15T03:54:58_PM"
+    },
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Pressure",
+      "value": 4.299,
+      "timestamp": "2021-09-15T03:54:58_PM"
+    },
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Flow",
+      "value": 5.007,
+      "timestamp": "2021-09-15T03:54:58_PM"
+    }
+  ],
+  [
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Temperature",
+      "value": 3.285,
+      "timestamp": "2021-09-15T03:55:00_PM"
+    },
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Pressure",
+      "value": 4.299,
+      "timestamp": "2021-09-15T03:55:00_PM"
+    },
+    {
+      "deviceID": "TCPdevice01",
+      "channel": "TCP",
+      "tagName": "Flow",
+      "value": 5.007,
+      "timestamp": "2021-09-15T03:55:00_PM"
+    }
+  ],
+  []
+]
