@@ -4,7 +4,7 @@ version: '3'
 services:
 
   backend:
-    image: "siqsessedge/socket_listener:v0.1"
+    image: "siqsessedge/socket_listener:v0.4"
     environment:
       "APPLICATION_MODE" : "web"
       "SOCKET_HOST" : "173.12.0.3"
